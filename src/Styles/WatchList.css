@@ -1,0 +1,13 @@
+.watchlist {
+	min-height: 100vh;
+	display: flex;
+	overflow: hidden;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.title {
+	font-size: 5.5rem;
+	letter-spacing: 2px;
+	color: whitesmoke;
+	margin: 5rem 2rem;
+}
