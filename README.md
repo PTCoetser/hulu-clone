@@ -2,8 +2,6 @@
 
 This is a portfolio project that I did most of the parts on my own. Anyway the thing that started off this project was a youtube video from **[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**.
 
-<br>
-
 I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
 
 ---
