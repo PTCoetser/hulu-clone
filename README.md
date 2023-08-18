@@ -1,6 +1,6 @@
 # Hulu Clone by Paul Coetser
 
-This is a portfolio project that I did most of the parts on my own. Anyway the thing that started off this project was a youtube video from **[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**.
+This is a small side-project that I've done just for fun. Anyway the thing that started off this project was a youtube video from **[Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)**.
 
 ---
 
@@ -18,7 +18,7 @@ This is a portfolio project that I did most of the parts on my own. Anyway the t
 
 ## What's not in it?
 
-- Obviously, you **can't watch** any of the movies or tv shows. This is just a project for my resume.
+- Obviously, you **can't watch** any of the movies or tv shows. This is just a proof of concept.
 - The site **hasn't been optimized for mobile view** even a bit, so please don't try seeing this in a mobile view.
 
 ---
@@ -32,10 +32,4 @@ Support a fellow developer by giving a **star**, although I feel kind of _cringy
 If you think you are capable of solving the above mentioned bugs, please help me out. You can fork the project and submit a **pull request**. You can also do it with the latest _GitHub Cli_ with the command `gh repo fork mahessh77melo/hulu-clone --clone`. Commit your changes in a new branch and then `gh pr create`.
 As most of you may know, the command to start the development server is `npm start` in the project directory.
 
-Feel free to give your feedbacks and you can also reach out to me at
-
-**Discord** --> @kingJames#2472
-
-**Instagram** --> @brutall_geek
-
-Final note : If you are a LeBron James hater, please don't reach out xD.
+Please feel free to give give your feedback.
