@@ -1,7 +1,7 @@
 {
 	"name": "hulu-clone",
 	"version": "0.1.0",
-	"homepage": "https://ptcoetser.github.io/hulu-clone/",
+	"homepage": "https://ptcoetser.github.io/hulu-clone",
 	"private": true,
 	"dependencies": {
 		"@material-ui/core": "^4.12.4",
